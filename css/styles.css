@@ -29,7 +29,7 @@ img {
   width: 300px;
 }
 a {
-  color: ##990000
+  color: #427E93
 }
 a:hover {
   text-decoration: none
@@ -71,7 +71,7 @@ h3 {
 /* Profile
 --------------------------*/
 header {
-  background: #990000;
+  background: #427E93;
   color: #EcEbF3;
 }
 
@@ -81,12 +81,12 @@ header {
   background: #EcEbF3;
 }
 .projects a {
-  color: #990000
+  color: #427E93
 }
 
 .projects .btn {
   color: #EcEbF3;
-  background: #990000;
+  background: #427E93;
   text-decoration: none;
   padding: 8px;
   border-radius: 4px;
@@ -130,7 +130,7 @@ header {
 /* Contact info
 --------------------------*/
 footer {
-  background: #990000;
+  background: #427E93;
   color: #EcEbF3;
 }
 .contact-list {
