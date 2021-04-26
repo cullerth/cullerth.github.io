@@ -29,7 +29,7 @@ img {
   width: 300px;
 }
 a {
-  color: #CC0000
+  color: ##990000
 }
 a:hover {
   text-decoration: none
@@ -81,12 +81,12 @@ header {
   background: #EcEbF3;
 }
 .projects a {
-  color: #CC0000
+  color: #990000
 }
 
 .projects .btn {
   color: #EcEbF3;
-  background: #CC0000;
+  background: #990000;
   text-decoration: none;
   padding: 8px;
   border-radius: 4px;
@@ -130,7 +130,7 @@ header {
 /* Contact info
 --------------------------*/
 footer {
-  background: #CC0000;
+  background: #990000;
   color: #EcEbF3;
 }
 .contact-list {
